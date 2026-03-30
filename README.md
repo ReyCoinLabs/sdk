@@ -9,6 +9,8 @@ REY Capital is a Web3 ecosystem built on Solana, combining **DeFi, RWA, and NFTs
 * Twitter/X: https://x.com/ReycoinLabs
 * Website: https://rey-coin.click/
 
+CA : ErRtTX1ykt6Q7w3Q12FCsjp3xW32C9FLGzCtkxytpump
+
 ---
 
 ## 🚀 Features
