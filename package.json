@@ -1,0 +1,14 @@
+# 📁 package.json
+
+```json
+{
+  "name": "rey-capital-solana",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "anchor test"
+  },
+  "dependencies": {
+    "@coral-xyz/anchor": "^0.29.0"
+  }
+}
+```
