@@ -1,0 +1,13 @@
+# 📁 Anchor.toml
+
+```toml
+[programs.devnet]
+rey_staking = "Rey111111111111111111111111111111111111111"
+
+[provider]
+cluster = "devnet"
+wallet = "~/.config/solana/id.json"
+
+[scripts]
+test = "anchor test"
+```
